@@ -1,0 +1,12 @@
+p {
+  padding: 0;
+  margin: 0;
+}
+
+div {
+  display: flex;
+}
+
+.App {
+  font-family: sans-serif;
+}
